@@ -199,4 +199,4 @@ build::
     npm run build:issues-dev
 
 The last command will run forever, watching for changes made to the
-source and rebuilding the project on each update. Press Ctrl+C to interrupt it.
+source and rebuilding the project on each update. Press Ctrl+C to interrupt it.Stay Safe 
